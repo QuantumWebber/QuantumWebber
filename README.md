@@ -42,7 +42,7 @@
 | [**Health Insurance Fraud Detector**](https://github.com/QuantumWebber/health-fraud-detector) | Streamlit app scoring claim fraud risk with a pretrained LightGBM model + live SHAP explainability |
 | [**Hand Gesture YouTube Controller**](https://github.com/QuantumWebber/CNN-Hand-Gesture-) | Real-time webcam gesture recognition (CNN + MediaPipe) mapped to YouTube playback controls via PyAutoGUI |
 
-**Also:** a custom RISC-V CPU with a MAC accelerator (RTL-to-GDS via OpenLane/Sky130, zero DRC violations) built for SEMIXTHON 2026; VotePath, a RAG-based election-literacy chatbot (LangChain + FAISS + Groq); MediMind, a multi-agent clinical decision-support system (LangGraph + RAG + RAGAS eval).
+
 
 ---
 
@@ -87,18 +87,19 @@ Structured self-study repos, each indexed as a phase in the [ML-DL Roadmap](http
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuantumWebber&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumWebber&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QuantumWebber&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=QuantumWebber&theme=radical&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumWebber&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumWebber&layout=compact&theme=radical&hide_border=true&langs_count=10" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumWebber&theme=react-dark&hide_border=true" width="45%" />
 </p>
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=QuantumWebber&theme=radical&no-frame=true&row=1&column=7" />
+</p>
 
 <p align="center">
   <i>"Physics gave me the why. Code gives me the how."</i>
