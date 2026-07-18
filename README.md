@@ -87,19 +87,6 @@ Structured self-study repos, each indexed as a phase in the [ML-DL Roadmap](http
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuantumWebber&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=QuantumWebber&theme=radical&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumWebber&layout=compact&theme=radical&hide_border=true&langs_count=10" width="45%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumWebber&theme=react-dark&hide_border=true" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=QuantumWebber&theme=radical&no-frame=true&row=1&column=7" />
-</p>
 
 <p align="center">
   <i>"Physics gave me the why. Code gives me the how."</i>
