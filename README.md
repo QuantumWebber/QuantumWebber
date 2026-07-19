@@ -31,18 +31,22 @@
 
 ---
 
-### 🚀 Featured Projects
+### 📊 GitHub Activity & Metrics
 
-| Project | What it is |
-|---|---|
-| [**Telecom RF Network Quality Intelligence**](https://github.com/QuantumWebber/Telecom-RF-Network-Quality-Intelligence-System) | End-to-end RF analytics platform — 2.4M+ real Indian cell tower records in a PostgreSQL star schema, XGBoost degradation classifier, LSTM call-drop forecast, live Tableau dashboard |
-| [**Flipkart AI**](https://github.com/QuantumWebber/Flipkart-ai) | Live-scraped e-commerce intelligence platform — CLIP-based image quality/consistency checks, RoBERTa sentiment, fake-review heuristics, price-trend analysis, FastAPI + React, deployed on HuggingFace Spaces |
-| [**CorpFix**](https://github.com/QuantumWebber/Corpfix) | Full-stack MERN legal-services platform — client service catalog + inquiry funnel, JWT-authenticated admin panel |
-| [**ML-DL Roadmap**](https://github.com/QuantumWebber/ML-DL-Roadmap) | Full-stack tracker turning a self-taught ML/DL/GenAI curriculum into a browsable, admin-managed roadmap — indexes the [ML](https://github.com/QuantumWebber/ML), [DL](https://github.com/QuantumWebber/DL), and [Gen-ai](https://github.com/QuantumWebber/Gen-ai) repos |
-| [**Health Insurance Fraud Detector**](https://github.com/QuantumWebber/health-fraud-detector) | Streamlit app scoring claim fraud risk with a pretrained LightGBM model + live SHAP explainability |
-| [**Hand Gesture YouTube Controller**](https://github.com/QuantumWebber/CNN-Hand-Gesture-) | Real-time webcam gesture recognition (CNN + MediaPipe) mapped to YouTube playback controls via PyAutoGUI |
+<p align="center">
+  <a href="https://github.com/QuantumWebber">
+    <img src="https://github-readme-stats.vercel.app/api?username=QuantumWebber&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Jatin's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/QuantumWebber">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumWebber&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  </a>
+</p>
 
-
+<p align="center">
+  <a href="https://github.com/QuantumWebber">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumWebber&theme=dark&hide_border=true&background=0D1117&fire=FF5A00&ring=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="97%" />
+  </a>
+</p>
 
 ---
 
@@ -86,7 +90,6 @@ Structured self-study repos, each indexed as a phase in the [ML-DL Roadmap](http
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
-
 
 <p align="center">
   <i>"Physics gave me the why. Code gives me the how."</i>
