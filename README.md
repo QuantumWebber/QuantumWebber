@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Pre-final year **B.Tech Engineering Physics**, Delhi Technological University (Batch 2027)
+- 🎓 Final year **B.Tech Engineering Physics**, Delhi Technological University (Batch 2027)
 - 🤖 Interested in applied ML/DL, GenAI application engineering, and using tech for social impact
 - 📫 **jatinmaggo28@gmail.com**
 
